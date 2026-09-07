@@ -1,0 +1,99 @@
+[
+{
+  "question": "Welche UML-Beziehungen müssen in einem Anwendungsfalldiagramm unterschieden werden?",
+  "answer": "Assoziation, Vererbung, Include und Extend."
+},
+{
+  "question": "Welche grafischen Symbole werden in einem Anwendungsfalldiagramm verwendet?",
+  "answer": "Ellipse (Use Case), Strichmännchen (Akteur), Rechteck (Systemgrenze), Linien mit verschiedenen Pfeilspitzen für die Beziehungen."
+},
+{
+  "question": "Wie wird ein Use Case grafisch dargestellt?",
+  "answer": "Als Ellipse mit Namen."
+},
+{
+  "question": "Wie wird ein Akteur grafisch dargestellt?",
+  "answer": "Als Strichmännchen mit Namen darunter."
+},
+{
+  "question": "Wie wird die Systemgrenze grafisch dargestellt?",
+  "answer": "Als umschließendes Rechteck mit Systemname."
+},
+{
+  "question": "Wie wird eine Assoziation grafisch dargestellt?",
+  "answer": "Durchgezogene Linie ohne Pfeilspitze."
+},
+{
+  "question": "Wie wird eine Vererbung grafisch dargestellt?",
+  "answer": "Durchgezogene Linie mit nicht ausgefülltem (offenem) Dreieck als Pfeilspitze."
+},
+{
+  "question": "Wie wird eine Include-Beziehung grafisch dargestellt? (2)",
+  "answer": "Gestrichelte Linie, offene Pfeilspitze, Stereotyp <<include>>, Pfeil zeigt zum eingebundenen Use Case."
+},
+{
+  "question": "Wie wird eine Extend-Beziehung grafisch dargestellt? (2)",
+  "answer": "Gestrichelte Linie, offene Pfeilspitze, Stereotyp <<extend>>, Pfeil zeigt zum Basis-Use-Case."
+},
+{
+  "question": "Wie wird ein Extension Point grafisch beziehungsweise textlich angegeben?",
+  "answer": "Als eigener beschrifteter Abschnitt in der Use-Case-Ellipse, der den Namen der Erweiterungsstelle nennt."
+},
+{
+  "question": "Welche Bedeutung hat eine Ellipse in einem Anwendungsfalldiagramm?",
+  "answer": "Sie steht für einen Use Case (eine Systemfunktion)."
+},
+{
+  "question": "Welche Bedeutung hat ein Strichmännchen in einem Anwendungsfalldiagramm?",
+  "answer": "Es steht für einen Akteur."
+},
+{
+  "question": "Welche Bedeutung hat ein Rechteck beziehungsweise eine Box in einem Anwendungsfalldiagramm?",
+  "answer": "Es stellt die Systemgrenze dar."
+},
+{
+  "question": "Welche Bedeutung hat eine gestrichelte Linie mit Pfeilspitze und dem Stereotyp <<include>>?",
+  "answer": "Sie zeigt eine zwingende Einbindung eines Use Case in einen anderen."
+},
+{
+  "question": "Welche Bedeutung hat eine gestrichelte Linie mit Pfeilspitze und dem Stereotyp <<extend>>?",
+  "answer": "Sie zeigt eine optionale, bedingte Erweiterung eines Use Case durch einen anderen."
+},
+{
+  "question": "Welche Bedeutung hat eine durchgezogene Linie mit einem nicht ausgefüllten Dreieck als Pfeilspitze?",
+  "answer": "Sie zeigt eine Vererbungsbeziehung (Generalisierung)."
+},
+{
+  "question": "Wie kann ein vollständiges Anwendungsfalldiagramm fachlich beschrieben werden?",
+  "answer": "Indem Systemgrenze/Systemname, alle Akteure, alle Use Cases sowie deren Beziehungen (Art und Richtung) benannt werden."
+},
+{
+  "question": "Welche Bestandteile müssen bei der Beschreibung eines Anwendungsfalldiagramms genannt werden?",
+  "answer": "Systemname, Akteure, Use Cases, Beziehungsarten (Assoziation, Vererbung, Include, Extend) inkl. Richtung."
+},
+{
+  "question": "Wie kann die Funktion eines Anwendungsfalldiagramms in einem vollständigen Satz beschrieben werden?",
+  "answer": "„Ein Anwendungsfalldiagramm veranschaulicht, welche Akteure welche Funktionen (Use Cases) eines Systems nutzen und wie diese Funktionen zueinander in Beziehung stehen.“"
+},
+{
+  "question": "Warum werden in einer Klausur bei einem Anwendungsfalldiagramm Fachbegriffe verwendet?",
+  "answer": "Weil präzise Fachbegriffe (z. B. Akteur, Assoziation, Include) zeigen, dass die UML-Notation korrekt verstanden wurde, und Punkte gezielt vergeben werden."
+},
+{
+  "question": "Wie sollte eine Antwort auf eine Frage mit „Definieren Sie“ formuliert werden?",
+  "answer": "Kurz, präzise, mit einem vollständigen Satz, der den Fachbegriff eindeutig erklärt, ohne Beispiele oder Zusatzinfos."
+},
+{
+  "question": "Wie sollte eine Antwort auf eine Frage mit „Nennen Sie“ formuliert werden?",
+  "answer": "Stichpunktartig, ohne ausführliche Begründung – nur die geforderten Begriffe/Fakten auflisten."
+},
+{
+  "question": "Wie sollte eine Antwort auf eine Frage mit „Begründen Sie“ formuliert werden?",
+  "answer": "Als vollständiger Satz mit Ursache-Wirkungs-Zusammenhang, der eine nachvollziehbare fachliche Erklärung liefert."
+},
+{
+  "question": "Wie sollte eine Antwort auf eine Frage mit „Erläutern Sie“ formuliert werden?",
+  "answer": "Ausführlicher als bei „Definieren Sie“ – mit Erklärung des Zusammenhangs, ggf. mit einem kurzen Beispiel."
+}
+
+]
